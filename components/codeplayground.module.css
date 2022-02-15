@@ -1,0 +1,5 @@
+.tabs :global(.nav-link.active){
+    border-bottom: 3px solid gray;
+    border-radius: 0;
+    background-color: unset;
+}
